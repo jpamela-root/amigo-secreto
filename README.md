@@ -25,4 +25,4 @@ Este projeto foi desenvolvido como parte de um desafio para criar a lógica de u
 - # 📸 Capturas de Tela
 ## Tela Inicial
 ## Resultado do Sorteio
-![Tela Inicial](assets/amigo-secreto.png)
+![Tela Inicial](assets/resultado.png)
