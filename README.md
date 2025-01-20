@@ -23,6 +23,5 @@ Este projeto foi desenvolvido como parte de um desafio para criar a lógica de u
 - **JavaScript**: Lógica do sorteio e manipulação do DOM.
 
 - # 📸 Capturas de Tela
-## Tela Inicial
 ## Resultado do Sorteio
 ![Tela Inicial](assets/resultado.jpeg)
